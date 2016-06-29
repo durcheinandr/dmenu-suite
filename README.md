@@ -1,7 +1,7 @@
 Menu Suite
 ==========
 
-This is a collection of shell scripts that interface with either [dmenu](http://tools.suckless.org/dmenu/) or [fzf](https://github.com/junegunn/fzf).
+This is a collection of shell scripts that interface with either [fzf](https://github.com/junegunn/fzf) or [dmenu](http://tools.suckless.org/dmenu/).
 
 Everyone's *nix setups are different. As such, these scripts fit my personal use case; it's not guaranteed to fit yours.
 
